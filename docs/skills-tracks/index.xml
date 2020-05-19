@@ -1,0 +1,129 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIS PE Chapter – Skills Tracks</title>
+    <link>/docs/skills-tracks/</link>
+    <description>Recent content in Skills Tracks on CIS PE Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/skills-tracks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Engineer Track</title>
+      <link>/docs/skills-tracks/engineer/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/skills-tracks/engineer/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;6 week facilitated program, delivered as 4 x 1 week sprints and 1 x 2 week sprint&lt;/li&gt;
+&lt;li&gt;Focuses on some core cloud competencies&lt;/li&gt;
+&lt;li&gt;Introduces OpenShift platform&lt;/li&gt;
+&lt;li&gt;Achieve vendor accreditation&lt;/li&gt;
+&lt;li&gt;Show + tell for graduation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pre-requisits&#34;&gt;Pre-requisits&lt;/h2&gt;
+&lt;p&gt;You will need to have an understanding of cloud technologies including: Compute, IaaS, PaaS, Network, Storage, Security essentials, etc.&lt;/p&gt;
+&lt;p&gt;You will need an understanding of code scripting.&lt;/p&gt;
+&lt;h2 id=&#34;objectives--key-results-okrs&#34;&gt;Objectives &amp;amp; Key Results (OKRs)&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Enable our Customers to build &amp;amp; operate platforms in hybrid cloud environments.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;key-results---skills&#34;&gt;Key results - Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Agile practice, Infrastructure as Code, Cloud Providers, Container Platforms&lt;/li&gt;
+&lt;li&gt;Infrastrudcture as Code&lt;/li&gt;
+&lt;li&gt;OpenShift architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-results---certification&#34;&gt;Key results - Certification&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RedHat Delivery Specialist - OpenShift Container Platform 4&lt;/li&gt;
+&lt;li&gt;Microsoft Azure Fundamentals (AZ-900); or AWS SysOps admin; or Google Associate Cloud Engineer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;track-outline&#34;&gt;Track outline&lt;/h2&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Senior Engineer Track</title>
+      <link>/docs/skills-tracks/senior-engineer/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/skills-tracks/senior-engineer/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Core review &amp;amp; deployment of modern platform&lt;/li&gt;
+&lt;li&gt;Focused on advanced skills &amp;amp; new products/services&lt;/li&gt;
+&lt;li&gt;6 week self-paced program, 2 week sprints&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; tell + Examination for graduation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pre-requisits&#34;&gt;Pre-requisits&lt;/h2&gt;
+&lt;p&gt;You should be an Engineering Track graduate or have experience with all elements of Eng. track. You should get stuck in to K8s the hard way and the SRE workbook.&lt;/p&gt;
+&lt;h3 id=&#34;goal&#34;&gt;Goal&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RedHat OpenShift 4 Foundation certification&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sprint-0&#34;&gt;Sprint 0&lt;/h2&gt;
+&lt;h2 id=&#34;sprint-1&#34;&gt;Sprint 1+&lt;/h2&gt;
+&lt;h3 id=&#34;goal-1&#34;&gt;Goal&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS DevOps Pro; or Azure DevOps; or Google DevOps Pro&lt;/li&gt;
+&lt;li&gt;Red Hat Certified Specialist in OpenShift Administration&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Supporting activities</title>
+      <link>/docs/skills-tracks/support-activities/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/skills-tracks/support-activities/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;col-lg-4 mb-5 mb-lg-0 text-left &#34;&gt;
+  &lt;div class=&#34;mb-4 h1&#34;&gt;
+    &lt;i class=&#34;fab fa-github fa-pull-left&#34;&gt;&lt;/i&gt;
+  &lt;/div&gt;
+  &lt;h4 class=&#34;h3&#34;&gt;Tech Challenge&lt;/h4&gt;
+    &lt;p class=&#34;mb-0&#34;&gt;
+Open to all practice members &amp; to encourage others
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;col-lg-4 mb-5 mb-lg-0 text-left &#34;&gt;
+  &lt;div class=&#34;mb-4 h1&#34;&gt;
+    &lt;i class=&#34;fab fa-github fa-pull-left&#34;&gt;&lt;/i&gt;
+  &lt;/div&gt;
+  &lt;h4 class=&#34;h3&#34;&gt;CCP Rotation&lt;/h4&gt;
+    &lt;p class=&#34;mb-0&#34;&gt;
+Enhance skills away from customer environments
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;col-lg-4 mb-5 mb-lg-0 text-left &#34;&gt;
+  &lt;div class=&#34;mb-4 h1&#34;&gt;
+    &lt;i class=&#34;fab fa-github fa-pull-left&#34;&gt;&lt;/i&gt;
+  &lt;/div&gt;
+  &lt;h4 class=&#34;h3&#34;&gt;Tech Briefings&lt;/h4&gt;
+    &lt;p class=&#34;mb-0&#34;&gt;
+On-going ‘lunch &amp; learn’ of different technology components
+&lt;/p&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

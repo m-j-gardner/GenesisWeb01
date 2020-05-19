@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIS PE Chapter – Open Source @ Capgemini</title>
+    <link>/docs/open-source-capgemini/</link>
+    <description>Recent content in Open Source @ Capgemini on CIS PE Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/docs/open-source-capgemini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
